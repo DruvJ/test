@@ -1,0 +1,21 @@
+{
+  "_kind": "browser-payload",
+  "_savedAt": "2026-03-12T09:39:37.551Z",
+  "git": {
+    "owner": "DruvJ",
+    "repo": "test",
+    "branch": "main"
+  },
+  "indexKind": "cognitive-canvas-backup-index",
+  "updatedAt": "2026-03-12T09:39:37.545Z",
+  "backups": [
+    {
+      "name": "cognitive-canvas-full-backup-2026-03-12.zip",
+      "path": "cognitive-canvas/backups/data/cognitive-canvas-full-backup-2026-03-12/manifest.json",
+      "createdAt": "2026-03-12T09:39:35.323Z",
+      "format": "chunked",
+      "totalSize": 133929830,
+      "totalChunks": 26
+    }
+  ]
+}

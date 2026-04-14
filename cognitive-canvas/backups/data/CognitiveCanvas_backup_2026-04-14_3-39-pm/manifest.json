@@ -1,0 +1,17 @@
+{
+  "_kind": "browser-payload",
+  "_savedAt": "2026-04-14T10:10:43.271473500+00:00",
+  "backupId": "CognitiveCanvas_backup_2026-04-14_3-39-pm",
+  "backupKind": "cognitive-canvas-chunked",
+  "backupVersion": 2,
+  "createdAt": "2026-04-14T10:09:24.217Z",
+  "format": "chunked",
+  "git": {
+    "branch": "main",
+    "owner": "DruvJ",
+    "repo": "test"
+  },
+  "name": "CognitiveCanvas_backup_2026-04-14_3-39-pm.zip",
+  "totalChunks": 7,
+  "totalSize": 133143209
+}

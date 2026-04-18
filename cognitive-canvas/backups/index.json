@@ -1,6 +1,6 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2026-04-14T11:04:27.741558800+00:00",
+  "_savedAt": "2026-04-18T13:13:56.169458600+00:00",
   "backups": [
     {
       "createdAt": "2026-04-14T10:09:24.217Z",
@@ -17,6 +17,14 @@
       "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_4-32-pm/manifest.json",
       "totalChunks": 9,
       "totalSize": 133143210
+    },
+    {
+      "createdAt": "2026-04-18T13:10:35.856Z",
+      "format": "chunked",
+      "name": "CognitiveCanvas_backup_2026-04-18_6-40-pm.zip",
+      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-18_6-40-pm/manifest.json",
+      "totalChunks": 9,
+      "totalSize": 140590079
     }
   ],
   "git": {
@@ -25,5 +33,5 @@
     "repo": "test"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-04-14T11:04:27.737Z"
+  "updatedAt": "2026-04-18T13:13:56.165Z"
 }

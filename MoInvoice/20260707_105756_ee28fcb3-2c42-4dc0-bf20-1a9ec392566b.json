@@ -1,0 +1,357 @@
+{
+  "categories": [],
+  "products": [],
+  "orders": [],
+  "deals": [],
+  "appTables": [],
+  "settings": [
+    {
+      "id": 1,
+      "layoutMode": "restaurant",
+      "premiumFeatures": false,
+      "showVirtualKeyboard": true,
+      "showVirtualKeyboardOnClick": false,
+      "showProductImages": true,
+      "orderIdSequenceId": null,
+      "productSequenceId": null,
+      "customerSequenceId": null,
+      "taxSequenceId": null,
+      "storeName": "c",
+      "shopAddress": "c",
+      "quickActionSlots": [
+        "syncInventory",
+        "purchaseOrders",
+        "cashDrop",
+        "orderNotes",
+        "specialOrder",
+        "openKeyboard",
+        "clearCart",
+        "holdOrder",
+        "retrieveOrders"
+      ],
+      "shortcuts": {
+        "openCheckout": "Control+p",
+        "clearCart": "Control+Delete",
+        "focusSearch": "Control+f",
+        "openCashDrop": "Control+Shift+c",
+        "navigateToReports": "Control+r"
+      },
+      "activeModules": {
+        "bookings": true,
+        "calendar": true,
+        "inventory": true,
+        "waste": true,
+        "reports": true,
+        "deals": true,
+        "purchaseOrders": true,
+        "ledger": true,
+        "attendance": true,
+        "banking": true
+      },
+      "countryCode": "US",
+      "currencyCode": "USD",
+      "phoneDialCode": "+1",
+      "phoneLength": 10,
+      "cartLayout": "compact",
+      "payrollTaxSettings": {
+        "federalEIN": "",
+        "stateEIN": ""
+      },
+      "receiptSettings": {
+        "title": "My Business",
+        "subTitle": "Your tagline here",
+        "headerContent": "123 Demo St\nAnytown, USA 12345\n(555) 555-5555",
+        "footerContent": "Thank you for your business!",
+        "alignment": "center",
+        "showBillerName": true
+      },
+      "autoGithubPushEnabled": true,
+      "lastAutoGithubPushAt": 1783421821432,
+      "lastGitHubPushTime": 1783421821432
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-default",
+      "firstName": "Admin",
+      "lastName": "",
+      "name": "Admin",
+      "username": "admin",
+      "password": "",
+      "role": "admin",
+      "employeeType": "full-time",
+      "pin": "sha256:f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+      "otpSecret": null,
+      "otpEnabled": false,
+      "phone": "",
+      "address": "",
+      "email": "",
+      "isActive": true,
+      "dateOfHired": "",
+      "driverLicenceNumber": ""
+    }
+  ],
+  "cart": [],
+  "recipes": [],
+  "inventory": [],
+  "menus": [],
+  "taxes": [],
+  "floors": [],
+  "walls": [],
+  "labels": [],
+  "kitchenPrinters": [],
+  "receiptPrinters": [],
+  "sequences": [],
+  "purchaseOrders": [],
+  "suppliers": [],
+  "auditLogs": [
+    {
+      "id": "08e1d0be-5e9a-473e-9f2b-dda46df9ba0e",
+      "timestamp": 1783421821521,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "AUTO_GITHUB_PUSH",
+      "description": "Automatic backup pushed to GitHub",
+      "details": {}
+    },
+    {
+      "id": "25aad142-25ef-486a-a415-ffbfb896170e",
+      "timestamp": 1783421791374,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "SETTINGS_UPDATED",
+      "description": "App settings were updated.",
+      "details": {
+        "newSettings": {
+          "autoLocalPushDestinationId": "1"
+        }
+      }
+    },
+    {
+      "id": "4902cfac-a03b-4f73-9e42-1312dadf0fd9",
+      "timestamp": 1783421793199,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "SETTINGS_UPDATED",
+      "description": "App settings were updated.",
+      "details": {
+        "newSettings": {}
+      }
+    },
+    {
+      "id": "4c00f9fc-d44e-4b59-b944-d7056909f88b",
+      "timestamp": 1783421784825,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "SETTINGS_UPDATED",
+      "description": "App settings were updated.",
+      "details": {
+        "newSettings": {
+          "autoGithubPushEnabled": true
+        }
+      }
+    },
+    {
+      "id": "93bfdf10-6457-4174-86bb-27a21bc38883",
+      "timestamp": 1783421821436,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "SETTINGS_UPDATED",
+      "description": "App settings were updated.",
+      "details": {
+        "newSettings": {
+          "lastAutoGithubPushAt": 1783421821432,
+          "lastGitHubPushTime": 1783421821432
+        }
+      }
+    },
+    {
+      "id": "d878ac1b-6917-41f7-94ca-6bec5d242acc",
+      "timestamp": 1783421765832,
+      "userId": "user-admin-default",
+      "userName": "Admin",
+      "action": "SETTINGS_UPDATED",
+      "description": "App settings were updated.",
+      "details": {
+        "newSettings": {
+          "id": 1,
+          "layoutMode": "restaurant",
+          "premiumFeatures": false,
+          "showVirtualKeyboard": true,
+          "showVirtualKeyboardOnClick": false,
+          "showProductImages": true,
+          "orderIdSequenceId": null,
+          "productSequenceId": null,
+          "customerSequenceId": null,
+          "taxSequenceId": null,
+          "storeName": "c",
+          "shopAddress": "c",
+          "quickActionSlots": [
+            "syncInventory",
+            "purchaseOrders",
+            "cashDrop",
+            "orderNotes",
+            "specialOrder",
+            "openKeyboard",
+            "clearCart",
+            "holdOrder",
+            "retrieveOrders"
+          ],
+          "shortcuts": {
+            "openCheckout": "Control+p",
+            "clearCart": "Control+Delete",
+            "focusSearch": "Control+f",
+            "openCashDrop": "Control+Shift+c",
+            "navigateToReports": "Control+r"
+          },
+          "activeModules": {
+            "bookings": true,
+            "calendar": true,
+            "inventory": true,
+            "waste": true,
+            "reports": true,
+            "deals": true,
+            "purchaseOrders": true,
+            "ledger": true,
+            "attendance": true,
+            "banking": true
+          },
+          "countryCode": "US",
+          "currencyCode": "USD",
+          "phoneDialCode": "+1",
+          "phoneLength": 10,
+          "cartLayout": "compact",
+          "payrollTaxSettings": {
+            "federalEIN": "",
+            "stateEIN": ""
+          },
+          "receiptSettings": {
+            "title": "My Business",
+            "subTitle": "Your tagline here",
+            "headerContent": "123 Demo St\nAnytown, USA 12345\n(555) 555-5555",
+            "footerContent": "Thank you for your business!",
+            "alignment": "center",
+            "showBillerName": true
+          }
+        }
+      }
+    }
+  ],
+  "customers": [],
+  "ledgerAccounts": [],
+  "ledgerEntries": [],
+  "calendarEvents": [],
+  "bookings": [],
+  "poReceivingLogs": [],
+  "wasteLogs": [],
+  "subscriptionPlans": [],
+  "doctors": [],
+  "prescriptions": [],
+  "projects": [],
+  "tasks": [],
+  "events": [],
+  "attendees": [],
+  "employees": [],
+  "payrollRuns": [],
+  "attendance": [],
+  "userRoles": [
+    {
+      "id": "role-admin",
+      "name": "admin",
+      "description": "Full access to all features and settings",
+      "isDefault": true
+    },
+    {
+      "id": "role-manager",
+      "name": "manager",
+      "description": "Can manage products, orders, and staff",
+      "isDefault": true
+    },
+    {
+      "id": "role-teller",
+      "name": "teller",
+      "description": "Can create orders and process payments",
+      "isDefault": true
+    }
+  ],
+  "bankTransactions": [],
+  "reconciliations": [],
+  "quickNotes": [],
+  "terminals": [],
+  "parkedOrders": [],
+  "shifts": [],
+  "promotions": [],
+  "notifications": [
+    {
+      "id": "5018680b-8bec-49f8-aa76-a9412de1dfa9",
+      "message": "✅ Found 1 backup(s)",
+      "type": "success",
+      "timestamp": 1783421823041,
+      "read": false,
+      "actionPage": "management"
+    },
+    {
+      "id": "6ce86029-e4d5-4041-86a4-a7b461872849",
+      "message": "Auto GitHub push saved",
+      "type": "success",
+      "timestamp": 1783421821479,
+      "read": true,
+      "actionPage": "management"
+    },
+    {
+      "id": "f994a492-003e-4011-a050-1a4279e04764",
+      "message": "✅ Found 1 backup(s)",
+      "type": "success",
+      "timestamp": 1783421838400,
+      "read": false,
+      "actionPage": "management"
+    }
+  ],
+  "settingsLogs": [
+    {
+      "id": "mrajb0h4i8jrhn",
+      "timestamp": 1783421821480,
+      "operation": "Auto GitHub Push",
+      "status": "success",
+      "message": "Auto-push to GitHub completed"
+    },
+    {
+      "id": "mrajb1aftuc3hl",
+      "timestamp": 1783421822535,
+      "operation": "Restore from GitHub",
+      "status": "started",
+      "message": "Fetching backup index from GitHub"
+    },
+    {
+      "id": "mrajb1oikigzq3",
+      "timestamp": 1783421823042,
+      "operation": "Restore from GitHub",
+      "status": "progress",
+      "message": "Found 1 backups"
+    },
+    {
+      "id": "mrajbcu1u9aj6z",
+      "timestamp": 1783421837497,
+      "operation": "Restore from GitHub",
+      "status": "started",
+      "message": "Fetching backup index from GitHub"
+    },
+    {
+      "id": "mrajbdj5kultio",
+      "timestamp": 1783421838401,
+      "operation": "Restore from GitHub",
+      "status": "progress",
+      "message": "Found 1 backups"
+    },
+    {
+      "id": "mrajc1b7izweg6",
+      "timestamp": 1783421869219,
+      "operation": "Cloud Backup",
+      "status": "started",
+      "message": "Cloud backup initiated"
+    }
+  ],
+  "holidays": [],
+  "backupMetadata": [],
+  "surcharges": []
+}

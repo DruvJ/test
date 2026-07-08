@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-08T12:36:20.114Z",
+  "updatedAt": "2026-07-08T12:36:43.876Z",
   "backups": [
     {
       "name": "cc-backup-2026-07-08_18-06-18.zip",
@@ -20,83 +20,11 @@
       "format": "single"
     },
     {
-      "createdAt": "2026-04-14T10:09:24.217Z",
-      "format": "chunked",
-      "name": "CognitiveCanvas_backup_2026-04-14_3-39-pm.zip",
-      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_3-39-pm/manifest.json",
-      "totalChunks": 7,
-      "totalSize": 133143209
-    },
-    {
-      "createdAt": "2026-04-14T11:02:10.375Z",
-      "format": "chunked",
-      "name": "CognitiveCanvas_backup_2026-04-14_4-32-pm.zip",
-      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_4-32-pm/manifest.json",
-      "totalChunks": 9,
-      "totalSize": 133143210
-    },
-    {
-      "createdAt": "2026-04-18T13:10:35.856Z",
-      "format": "chunked",
-      "name": "CognitiveCanvas_backup_2026-04-18_6-40-pm.zip",
-      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-18_6-40-pm/manifest.json",
-      "totalChunks": 9,
-      "totalSize": 140590079
-    },
-    {
-      "name": "cc-backup-2026-07-07_17-16-22.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-07_17-16-22/manifest.json",
-      "createdAt": "2026-07-07T11:46:22.745Z",
-      "format": "chunked",
-      "totalSize": 127104654,
-      "totalChunks": 9
-    },
-    {
-      "name": "cc-backup-2026-07-07_17-21-46.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-07_17-21-46/manifest.json",
-      "createdAt": "2026-07-07T11:51:46.292Z",
-      "format": "chunked",
-      "totalSize": 127104655,
-      "totalChunks": 9
-    },
-    {
-      "name": "cc-backup-2026-07-08_10-38-36.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_10-38-36/manifest.json",
-      "createdAt": "2026-07-08T05:08:36.733Z",
-      "format": "chunked",
-      "totalSize": 60717973,
-      "totalChunks": 4
-    },
-    {
-      "name": "cc_backup_2026-07-08.zip",
-      "path": "cognitive-canvas/backups/data/cc_backup_2026-07-08/manifest.json",
-      "createdAt": "2026-07-08T10:10:22.465Z",
-      "format": "chunked",
-      "totalSize": 71907175,
-      "totalChunks": 5
-    },
-    {
-      "name": "cc-backup-2026-07-08_16-32-35.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-32-35/manifest.json",
-      "createdAt": "2026-07-08T11:02:35.090Z",
+      "name": "cc-backup-2026-07-08_17-30-30.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_17-30-30/manifest.json",
+      "createdAt": "2026-07-08T12:00:30.267Z",
       "format": "chunked",
       "totalSize": 71907176,
-      "totalChunks": 5
-    },
-    {
-      "name": "cc-backup-2026-07-08_16-36-02.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-36-02/manifest.json",
-      "createdAt": "2026-07-08T11:06:02.723Z",
-      "format": "chunked",
-      "totalSize": 189670982,
-      "totalChunks": 13
-    },
-    {
-      "name": "cc-backup-2026-07-08_16-39-55.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-39-55/manifest.json",
-      "createdAt": "2026-07-08T11:09:55.253Z",
-      "format": "chunked",
-      "totalSize": 63912363,
       "totalChunks": 5
     },
     {
@@ -108,12 +36,60 @@
       "totalChunks": 5
     },
     {
-      "name": "cc-backup-2026-07-08_17-30-30.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_17-30-30/manifest.json",
-      "createdAt": "2026-07-08T12:00:30.267Z",
+      "name": "cc-backup-2026-07-08_16-39-55.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-39-55/manifest.json",
+      "createdAt": "2026-07-08T11:09:55.253Z",
+      "format": "chunked",
+      "totalSize": 63912363,
+      "totalChunks": 5
+    },
+    {
+      "name": "cc-backup-2026-07-08_16-36-02.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-36-02/manifest.json",
+      "createdAt": "2026-07-08T11:06:02.723Z",
+      "format": "chunked",
+      "totalSize": 189670982,
+      "totalChunks": 13
+    },
+    {
+      "name": "cc-backup-2026-07-08_16-32-35.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-32-35/manifest.json",
+      "createdAt": "2026-07-08T11:02:35.090Z",
       "format": "chunked",
       "totalSize": 71907176,
       "totalChunks": 5
+    },
+    {
+      "name": "cc_backup_2026-07-08.zip",
+      "path": "cognitive-canvas/backups/data/cc_backup_2026-07-08/manifest.json",
+      "createdAt": "2026-07-08T10:10:22.465Z",
+      "format": "chunked",
+      "totalSize": 71907175,
+      "totalChunks": 5
+    },
+    {
+      "name": "cc-backup-2026-07-08_10-38-36.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_10-38-36/manifest.json",
+      "createdAt": "2026-07-08T05:08:36.733Z",
+      "format": "chunked",
+      "totalSize": 60717973,
+      "totalChunks": 4
+    },
+    {
+      "name": "cc-backup-2026-07-07_17-21-46.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-07_17-21-46/manifest.json",
+      "createdAt": "2026-07-07T11:51:46.292Z",
+      "format": "chunked",
+      "totalSize": 127104655,
+      "totalChunks": 9
+    },
+    {
+      "name": "cc-backup-2026-07-07_17-16-22.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-07_17-16-22/manifest.json",
+      "createdAt": "2026-07-07T11:46:22.745Z",
+      "format": "chunked",
+      "totalSize": 127104654,
+      "totalChunks": 9
     }
   ],
   "_kind": "browser-payload",

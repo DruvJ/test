@@ -5,8 +5,20 @@
     "branch": "main"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-08T12:36:43.876Z",
+  "updatedAt": "2026-07-08T12:41:08.207Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-08_18-11-06.zip",
+      "storage": "release",
+      "assetId": 470255823,
+      "assetName": "cc-backup-2026-07-08_18-11-06.zip",
+      "releaseTag": "cognitive-canvas-backups",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_18-11-06.zip",
+      "size": 101273548,
+      "totalSize": 101273548,
+      "createdAt": "2026-07-08T12:41:08.207Z",
+      "format": "single"
+    },
     {
       "name": "cc-backup-2026-07-08_18-06-18.zip",
       "storage": "release",

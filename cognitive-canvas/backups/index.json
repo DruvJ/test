@@ -1,12 +1,15 @@
 {
-  "git": {
-    "owner": "DruvJ",
-    "repo": "test",
-    "branch": "main"
-  },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-08T12:41:23.226Z",
+  "updatedAt": "2026-07-10T10:00:15.791Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-10_15-30-05.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_15-30-05.zip",
+      "createdAt": "2026-07-10T10:00:15.791Z",
+      "format": "release",
+      "assetId": 472346822,
+      "totalSize": 71907176
+    },
     {
       "name": "cc-backup-2026-07-08_18-11-06.zip",
       "storage": "release",
@@ -86,16 +89,6 @@
       "format": "chunked",
       "totalSize": 60717973,
       "totalChunks": 4
-    },
-    {
-      "name": "cc-backup-2026-07-07_17-21-46.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-07_17-21-46/manifest.json",
-      "createdAt": "2026-07-07T11:51:46.292Z",
-      "format": "chunked",
-      "totalSize": 127104655,
-      "totalChunks": 9
     }
-  ],
-  "_kind": "browser-payload",
-  "_savedAt": "2026-07-08T12:03:43.528Z"
+  ]
 }

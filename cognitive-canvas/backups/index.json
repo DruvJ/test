@@ -1,6 +1,6 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-13T06:24:37.051Z",
+  "updatedAt": "2026-07-13T06:24:50.714Z",
   "backups": [
     {
       "name": "cc-backup-2026-07-13_11-54-36.zip",
@@ -97,14 +97,6 @@
       "format": "chunked",
       "totalSize": 63912363,
       "totalChunks": 5
-    },
-    {
-      "name": "cc-backup-2026-07-08_16-36-02.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-08_16-36-02/manifest.json",
-      "createdAt": "2026-07-08T11:06:02.723Z",
-      "format": "chunked",
-      "totalSize": 189670982,
-      "totalChunks": 13
     }
   ]
 }

@@ -1,16 +1,23 @@
 {
-  "git": {
-    "owner": "DruvJ",
-    "repo": "test",
-    "branch": "main"
-  },
-  "owner": "DruvJ",
-  "repo": "test",
-  "repository": "test",
-  "branch": "main",
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-21T06:36:08.046Z",
+  "updatedAt": "2026-07-21T06:46:08.872Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-21_12-15-50.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_12-15-50.zip",
+      "createdAt": "2026-07-21T06:46:08.872Z",
+      "format": "release",
+      "assetId": 484352276,
+      "totalSize": 182802097
+    },
+    {
+      "name": "cc-backup-2026-07-21_12-05-04.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_12-05-04/manifest.json",
+      "createdAt": "2026-07-21T06:35:04.428Z",
+      "format": "chunked",
+      "totalSize": 42079564,
+      "totalChunks": 3
+    },
     {
       "name": "cc-backup-2026-07-21_12-04-56.zip",
       "storage": "release",
@@ -82,32 +89,6 @@
       "format": "release",
       "assetId": 476607287,
       "totalSize": 11187175
-    },
-    {
-      "name": "cc-backup-2026-07-14_12-45-13.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-14_12-45-13.zip",
-      "createdAt": "2026-07-14T07:15:14.084Z",
-      "format": "release",
-      "assetId": 476399162,
-      "totalSize": 12556402
-    },
-    {
-      "name": "cc-backup-2026-07-13_17-02-48.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-13_17-02-48.zip",
-      "createdAt": "2026-07-13T11:33:10.164Z",
-      "format": "release",
-      "assetId": 475413402,
-      "totalSize": 182802111
-    },
-    {
-      "name": "cc-backup-2026-07-21_12-05-04.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_12-05-04/manifest.json",
-      "createdAt": "2026-07-21T06:35:04.428Z",
-      "format": "chunked",
-      "totalSize": 42079564,
-      "totalChunks": 3
     }
-  ],
-  "_kind": "browser-payload",
-  "_savedAt": "2026-07-21T06:36:08.048Z"
+  ]
 }

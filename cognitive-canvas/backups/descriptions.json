@@ -8,7 +8,7 @@
   "repo": "test",
   "repository": "test",
   "branch": "main",
-  "content": "{\n  \"cc-backup-2026-08-18_12-17-01.zip\": \"just seeing for test purpose\"\n}",
+  "content": "{\n  \"git\": {\n    \"owner\": \"DruvJ\",\n    \"repo\": \"test\",\n    \"branch\": \"main\"\n  },\n  \"owner\": \"DruvJ\",\n  \"repo\": \"test\",\n  \"repository\": \"test\",\n  \"branch\": \"main\",\n  \"content\": \"{\\n  \\\"cc-backup-2026-08-18_12-17-01.zip\\\": \\\"just seeing for test purpose\\\"\\n}\",\n  \"_kind\": \"browser-payload\",\n  \"_savedAt\": \"2026-08-18T06:47:13.507Z\",\n  \"cc-backup-2026-08-18_12-17-34.zip\": \"test2\"\n}",
   "_kind": "browser-payload",
-  "_savedAt": "2026-08-18T06:47:13.507Z"
+  "_savedAt": "2026-08-18T06:47:40.476Z"
 }

@@ -1,0 +1,14 @@
+{
+  "git": {
+    "owner": "DruvJ",
+    "repo": "test",
+    "branch": "main"
+  },
+  "owner": "DruvJ",
+  "repo": "test",
+  "repository": "test",
+  "branch": "main",
+  "content": "{\n  \"cc-backup-2026-08-18_12-17-01.zip\": \"just seeing for test purpose\"\n}",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-08-18T06:47:13.507Z"
+}
